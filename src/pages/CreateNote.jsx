@@ -29,7 +29,7 @@ const CreateNote = () => {
         </Link>
         <button
           onClick={handleFormSubmit}
-          className='inline-block rounded-xl py-4 px-5 text-content-white text-lg tracking-wide font-semibold  bg-gray-700 hover:bg-gray-600 transition '
+          className='inline-block rounded-xl py-3 px-4 text-content-white text-lg tracking-wide font-semibold  bg-gray-700 hover:bg-gray-600 transition '
         >
           Save
         </button>

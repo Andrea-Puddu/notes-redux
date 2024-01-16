@@ -17,7 +17,7 @@ const SearchForm = () => {
         value={searchTerm}
         onChange={handleSearchTermChange}
         type='text'
-        placeholder='Search Task...'
+        placeholder='Search Notes...'
         className='w-full py-1 pl-12 pr-4 border rounded-lg outline-none  text-content bg-gray-50 focus:bg-white focus:border-secondary'
       />
     </div>
